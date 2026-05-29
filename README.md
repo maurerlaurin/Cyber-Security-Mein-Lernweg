@@ -12,5 +12,5 @@ Ziel: duales Studium Cyber Security (~2030).
 - TryHackMe: Pre Security Pfad
 
 ## Meine Notizen
-Siehe Ordner `/notizen`
+Siehe [/notizen](./notizen/pre-security.md)
 
