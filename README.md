@@ -1,19 +1,16 @@
-# Cyber Security – Mein Lernweg
+## About Me
 
-Hi! Hier dokumentiere ich meinen Weg in die Cyber Security.
-Ziel: duales Studium Cyber Security (~2030).
+- FOS International Business (Bavaria, Germany)
+- Interest: Cloud Security, Security for AI
+- Languages: German, English (C1), Spanish (learning)
 
-## Über mich
-- FOS Internationale Wirtschaft (Bayern)
-- Interesse: Cloud Security, Security für KI
-- Sprachen: Deutsch, Englisch (C1), Spanisch
+## What I'm currently doing
 
-## Was ich gerade mache
-- TryHackMe: Pre Security Pfad
+- TryHackMe: Pre Security Path
 
-## Meine Notizen
+## My Notes
 
-Hier dokumentiere ich alles was ich lerne – sortiert nach Bereich.
+See [→ Notes Overview](./notizen/)
 
 | Bereich | Datei | Status |
 |--------|-------|--------|
