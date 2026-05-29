@@ -1,9 +1,9 @@
-# Meine Notizen
+# My Notes
 
-Hier dokumentiere ich alles was ich lerne – sortiert nach Bereich.
+Here I document everything I learn – sorted by topic.
 
-| Bereich | Datei | Status |
-|--------|-------|--------|
-| Pre Security | [pre-security.md](/notizen/pre-security.md) | 🟡 In Bearbeitung |
-| Cyber Security 101 | — | ⬜ Geplant |
-| SOC Level 1 | — | ⬜ Geplant |
+| Topic | File | Status |
+|-------|------|--------|
+| Pre Security | [pre-security.md](../notizen/pre-security.md) | 🟡 In Progress |
+| Cyber Security 101 | — | ⬜ Planned |
+| SOC Level 1 | — | ⬜ Planned |
