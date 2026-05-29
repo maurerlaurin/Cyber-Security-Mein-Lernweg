@@ -1,7 +1,7 @@
 ## About Me
 
 - FOS International Business (Bavaria, Germany)
-- Interest: Cloud Security, Security for AI
+- Interest: Cloud Security, Security for AI , South America
 - Languages: German, English (C1), Spanish (learning)
 
 ## What I'm currently doing
