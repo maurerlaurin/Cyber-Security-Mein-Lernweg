@@ -12,5 +12,13 @@ Ziel: duales Studium Cyber Security (~2030).
 - TryHackMe: Pre Security Pfad
 
 ## Meine Notizen
-Siehe [/notizen](./notizen/pre-security.md)
+# Meine Notizen
+
+Hier dokumentiere ich alles was ich lerne – sortiert nach Bereich.
+
+| Bereich | Datei | Status |
+|--------|-------|--------|
+| Pre Security | [pre-security.md](./pre-security.md) | 🟡 In Bearbeitung |
+| Cyber Security 101 | — | ⬜ Geplant |
+| SOC Level 1 | — | ⬜ Geplant |
 
