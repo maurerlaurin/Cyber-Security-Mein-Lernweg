@@ -27,10 +27,18 @@
 
 ---
 
-## 📅 DATUM
+## 📅 2026-05-29
 
-**Module:**
+**Module:** Network Fundamentals – What is Networking / The Internet / Identifying Devices
 **What I learned:**
-**New command:**
-**Aha moment:**
+- Networks are connected devices – exists in real life too (traffic lights, water supply, friend groups)
+- The Internet is made up of countless small networks that all communicate with each other
+- Devices are identified by IP address (temporary, defines host in a network, 4 octets) and MAC address (permanent, first 6 digits = manufacturer, last 6 = network interface)
+- 192.168.x.x appears often because it is a private IP range
+- IPv6 exists because IPv4 is running out of addresses – more efficient and many more addresses available
+- ICMP (Internet Control Message Protocol) – used to measure how fast packets travel across a network (ping)
+
+**New commands:** `ping`
+**Aha moment:** You can spoof a MAC address to connect to a paid hotel WiFi by copying another connected device's IP – shows how important network security is.
+
 
