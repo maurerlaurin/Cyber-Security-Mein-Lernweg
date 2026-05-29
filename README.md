@@ -12,7 +12,6 @@ Ziel: duales Studium Cyber Security (~2030).
 - TryHackMe: Pre Security Pfad
 
 ## Meine Notizen
-# Meine Notizen
 
 Hier dokumentiere ich alles was ich lerne – sortiert nach Bereich.
 
